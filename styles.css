@@ -1,0 +1,33 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.Dice{
+  text-align: center;
+  display: inline-block;
+}
+body{
+  background-color: rgb(72, 73, 73);
+}
+h1{
+  margin: 30px;
+  font-family: 'Lobster',cursive;
+  text-shadow: 5% 0 rgb(3, 24, 44);
+  font-size: xx-large;
+  color: rgb(137, 247, 11);
+}
+p{
+  font-size: 2rem;
+  color:rgb(137, 247, 11);
+  font-family: 'Indie Flower',cursive;
+}
+img{
+  width: fit-content;
+}
+footer{
+  margin-top:10%;
+  color: rgb(245, 107, 222);
+  text-align: right;
+  font-family: 'indie flower'cursive;
+}
